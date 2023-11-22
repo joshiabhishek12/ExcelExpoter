@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "output.path",
+    "type": "java.lang.String",
+    "description": "A description for 'output.path'"
+  },
+  {
+    "name": "excel.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'excel.file.path'"
+  },
+  {
+    "name": "excel.column.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'excel.column.file.path'"
+  },
+  {
+    "name": "table.name",
+    "type": "java.lang.String",
+    "description": "A description for 'table.name'"
+  },
+  {
+    "name": "table.names.column",
+    "type": "java.lang.String",
+    "description": "A description for 'table.names.column'"
+  }
+]}
